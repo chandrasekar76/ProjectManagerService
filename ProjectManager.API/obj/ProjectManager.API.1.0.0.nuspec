@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ProjectManager.API</id>
+    <version>1.0.0</version>
+    <authors>ProjectManager.API</authors>
+    <owners>ProjectManager.API</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1">
+        <dependency id="ProjectManager.Business" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="ProjectManager.DataAccess" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.NETCore.App" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.App" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Abstractions" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Razor.Language" version="2.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Relational" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.VisualStudio.Web.CodeGeneration.Design" version="2.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Options" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Analyzers" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Caching.Abstractions" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Caching.Memory" version="2.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Binder" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="2.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Swashbuckle.AspNetCore" version="3.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/netcoreapp2.1/appsettings.Development.json" buildAction="Content" />
+      <files include="any/netcoreapp2.1/appsettings.json" buildAction="Content" />
+      <files include="any/netcoreapp2.1/Properties/launchSettings.json" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.API\bin\Debug\netcoreapp2.1\ProjectManager.API.runtimeconfig.json" target="lib\netcoreapp2.1\ProjectManager.API.runtimeconfig.json" />
+    <file src="C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.API\bin\Debug\netcoreapp2.1\ProjectManager.API.dll" target="lib\netcoreapp2.1\ProjectManager.API.dll" />
+    <file src="C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.API\appsettings.Development.json" target="content\appsettings.Development.json" />
+    <file src="C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.API\appsettings.Development.json" target="contentFiles\any\netcoreapp2.1\appsettings.Development.json" />
+    <file src="C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.API\appsettings.json" target="content\appsettings.json" />
+    <file src="C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.API\appsettings.json" target="contentFiles\any\netcoreapp2.1\appsettings.json" />
+    <file src="C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.API\Properties\launchSettings.json" target="content\Properties\launchSettings.json" />
+    <file src="C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.API\Properties\launchSettings.json" target="contentFiles\any\netcoreapp2.1\Properties\launchSettings.json" />
+  </files>
+</package>
