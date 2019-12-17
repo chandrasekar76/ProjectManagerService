@@ -1,0 +1,2 @@
+C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.NBench\bin\Debug\netcoreapp2.2\ProjectManager.NBench.deps.json
+C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.NBench\obj\Debug\netcoreapp2.2\ProjectManager.NBench.AssemblyInfo.cs

@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\Capsule\ProjectManagerService\ProjectManager.NBench\bin\Release\netcoreapp2.1\ProjectManager.NBench.deps.json
+C:\Users\Admin\Downloads\Capsule\ProjectManagerService\ProjectManager.NBench\bin\Release\netcoreapp2.1\ProjectManager.NBench.runtimeconfig.json
+C:\Users\Admin\Downloads\Capsule\ProjectManagerService\ProjectManager.NBench\bin\Release\netcoreapp2.1\ProjectManager.NBench.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\Capsule\ProjectManagerService\ProjectManager.NBench\obj\Release\netcoreapp2.1\ProjectManager.NBench.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\Capsule\ProjectManagerService\ProjectManager.NBench\obj\Release\netcoreapp2.1\ProjectManager.NBench.AssemblyInfo.cs
+C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.NBench\bin\Release\netcoreapp2.1\ProjectManager.NBench.deps.json
+C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.NBench\bin\Release\netcoreapp2.1\ProjectManager.NBench.runtimeconfig.json
+C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.NBench\bin\Release\netcoreapp2.1\ProjectManager.NBench.runtimeconfig.dev.json
+C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.NBench\bin\Release\netcoreapp2.1\ProjectManager.NBench.dll
+C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.NBench\bin\Release\netcoreapp2.1\ProjectManager.NBench.pdb
+C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.NBench\obj\Release\netcoreapp2.1\ProjectManager.NBench.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.NBench\obj\Release\netcoreapp2.1\ProjectManager.NBench.AssemblyInfo.cs
+C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.NBench\obj\Release\netcoreapp2.1\ProjectManager.NBench.dll
+C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.NBench\obj\Release\netcoreapp2.1\ProjectManager.NBench.pdb

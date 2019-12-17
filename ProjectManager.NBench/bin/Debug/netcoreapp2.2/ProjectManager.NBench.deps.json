@@ -1,0 +1,85 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "7295ba3249023678d8b9f6f60dda28eaa56d6cbf"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "projectmanager.nbench/1.0.0": {
+        "dependencies": {
+          "ProjectManager.Business.Tests": "1.0.0"
+        },
+        "runtime": {
+          "ProjectManager.NBench.dll": {}
+        }
+      },
+      "microsoft.entityframeworkcore.sqlserver/3.1.0": {},
+      "projectmanager.business/1.0.0": {
+        "dependencies": {
+          "ProjectManager.DataAccess": "1.0.0"
+        },
+        "runtime": {
+          "ProjectManager.Business.dll": {}
+        }
+      },
+      "projectmanager.business.tests/1.0.0": {
+        "dependencies": {
+          "ProjectManager.Business": "1.0.0",
+          "ProjectManager.DataAccess": "1.0.0"
+        },
+        "runtime": {
+          "ProjectManager.Business.Tests.dll": {}
+        }
+      },
+      "projectmanager.dataaccess/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.0",
+          "ProjectManager.Entities": "1.0.0"
+        },
+        "runtime": {
+          "ProjectManager.DataAccess.dll": {}
+        }
+      },
+      "projectmanager.entities/1.0.0": {
+        "runtime": {
+          "ProjectManager.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "projectmanager.nbench/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "microsoft.entityframeworkcore.sqlserver/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3YK93Ibg2frpvYGfGxtwccFQDVSpKSlY8EkZny/4H0VBlZXwqhB8g1Y13+zJ5TMlGvVstPZrWo1QxkEHDi36KQ==",
+      "path": "microsoft.entityframeworkcore.sqlserver/3.1.0",
+      "hashPath": "microsoft.entityframeworkcore.sqlserver.3.1.0.nupkg.sha512"
+    },
+    "projectmanager.business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "projectmanager.business.tests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "projectmanager.dataaccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "projectmanager.entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
