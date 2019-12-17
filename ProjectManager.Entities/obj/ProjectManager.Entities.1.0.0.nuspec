@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ProjectManager.Entities</id>
+    <version>1.0.0</version>
+    <authors>ProjectManager.Entities</authors>
+    <owners>ProjectManager.Entities</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1">
+        <dependency id="Microsoft.NETCore.App" version="2.1.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.Entities\bin\Debug\netcoreapp2.1\ProjectManager.Entities.dll" target="lib\netcoreapp2.1\ProjectManager.Entities.dll" />
+  </files>
+</package>

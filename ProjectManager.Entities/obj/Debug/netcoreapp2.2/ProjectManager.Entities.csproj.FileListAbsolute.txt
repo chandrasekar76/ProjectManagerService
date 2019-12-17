@@ -1,0 +1,7 @@
+C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.Entities\bin\Debug\netcoreapp2.2\ProjectManager.Entities.deps.json
+C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.Entities\bin\Debug\netcoreapp2.2\ProjectManager.Entities.dll
+C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.Entities\bin\Debug\netcoreapp2.2\ProjectManager.Entities.pdb
+C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.Entities\obj\Debug\netcoreapp2.2\ProjectManager.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.Entities\obj\Debug\netcoreapp2.2\ProjectManager.Entities.AssemblyInfo.cs
+C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.Entities\obj\Debug\netcoreapp2.2\ProjectManager.Entities.dll
+C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.Entities\obj\Debug\netcoreapp2.2\ProjectManager.Entities.pdb

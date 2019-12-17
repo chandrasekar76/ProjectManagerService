@@ -1,0 +1,45 @@
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Entities\bin\Debug\netcoreapp2.1\ProjectManager.Entities.deps.json
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Entities\bin\Debug\netcoreapp2.1\ProjectManager.Entities.dll
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Entities\bin\Debug\netcoreapp2.1\ProjectManager.Entities.pdb
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.csproj.CoreCompileInputs.cache
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.AssemblyInfoInputs.cache
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.AssemblyInfo.cs
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.dll
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.pdb
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\ProjectManagerService-master\ProjectManager.Entities\bin\Debug\netcoreapp2.1\ProjectManager.Entities.deps.json
+C:\Users\Admin\Downloads\ProjectManagerService-master\ProjectManager.Entities\bin\Debug\netcoreapp2.1\ProjectManager.Entities.dll
+C:\Users\Admin\Downloads\ProjectManagerService-master\ProjectManager.Entities\bin\Debug\netcoreapp2.1\ProjectManager.Entities.pdb
+C:\Users\Admin\Downloads\ProjectManagerService-master\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.AssemblyInfo.cs
+C:\Users\Admin\Downloads\ProjectManagerService-master\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.dll
+C:\Users\Admin\Downloads\ProjectManagerService-master\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.pdb
+C:\Users\Admin\Downloads\ProjectManagerService-master\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\ProjectManagerService-master\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\ProjectManagerService-master\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Assignments\ProjectManagerService-master\ProjectManager.Entities\bin\Debug\netcoreapp2.1\ProjectManager.Entities.deps.json
+C:\Users\Admin\Desktop\Assignments\ProjectManagerService-master\ProjectManager.Entities\bin\Debug\netcoreapp2.1\ProjectManager.Entities.dll
+C:\Users\Admin\Desktop\Assignments\ProjectManagerService-master\ProjectManager.Entities\bin\Debug\netcoreapp2.1\ProjectManager.Entities.pdb
+C:\Users\Admin\Desktop\Assignments\ProjectManagerService-master\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Assignments\ProjectManagerService-master\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Assignments\ProjectManagerService-master\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Assignments\ProjectManagerService-master\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Assignments\ProjectManagerService-master\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.dll
+C:\Users\Admin\Desktop\Assignments\ProjectManagerService-master\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.pdb
+C:\Users\Administrator\Downloads\FSE - SBA\ProjectManagerService-master\ProjectManager.Entities\bin\Debug\netcoreapp2.1\ProjectManager.Entities.deps.json
+C:\Users\Administrator\Downloads\FSE - SBA\ProjectManagerService-master\ProjectManager.Entities\bin\Debug\netcoreapp2.1\ProjectManager.Entities.dll
+C:\Users\Administrator\Downloads\FSE - SBA\ProjectManagerService-master\ProjectManager.Entities\bin\Debug\netcoreapp2.1\ProjectManager.Entities.pdb
+C:\Users\Administrator\Downloads\FSE - SBA\ProjectManagerService-master\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\FSE - SBA\ProjectManagerService-master\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\FSE - SBA\ProjectManagerService-master\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\FSE - SBA\ProjectManagerService-master\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\FSE - SBA\ProjectManagerService-master\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.dll
+C:\Users\Administrator\Downloads\FSE - SBA\ProjectManagerService-master\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.pdb
+C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.Entities\bin\Debug\netcoreapp2.1\ProjectManager.Entities.deps.json
+C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.Entities\bin\Debug\netcoreapp2.1\ProjectManager.Entities.dll
+C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.Entities\bin\Debug\netcoreapp2.1\ProjectManager.Entities.pdb
+C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.AssemblyInfo.cs
+C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.dll
+C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.pdb
+C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.csprojAssemblyReference.cache
+C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\ProjectManagerService\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.AssemblyInfoInputs.cache
